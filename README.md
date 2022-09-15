@@ -1,6 +1,6 @@
 # Snake
 
-This is a simple snake game written in assembly language running on an 8086 microprocessor.
+This project is a snake game written in assembly language running on an 8086 microprocessor.
 
 ## Diagram
 
